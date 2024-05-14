@@ -2,7 +2,7 @@
 
 ---
 
-- Aluno: **Cleyton Isamu Muto**
+- Aluno: Gabriel Vicente
 - Matricula: **202303110529**
 - Curso: **Desenvolvimento Full Stack**
 - Turma: **23.1**
